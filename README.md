@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="guts.png" width="32%" align="right" />
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=480&height=60&lines=Victor+Hugo"
   alt="Victor Hugo"
@@ -35,13 +33,7 @@
 
 <br><br><br>
 
-</div>
-
-<br clear="right">
-
 ---
-
-<div align="center">
 
 ## Sobre mim
 
