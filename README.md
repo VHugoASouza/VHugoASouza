@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/guts.png" width="30%" align="right" />
+<img src="guts.png" width="30%" align="right" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E6EDF3&repeat=false&width=260&lines=Victor+Hugo)](https://git.io/typing-svg)
 
